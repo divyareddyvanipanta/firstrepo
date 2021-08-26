@@ -1,6 +1,6 @@
 # firstrepo
 my first repository
 
-Divya Reddy Vanipanta
+My name is Divya Reddy Vanipanta
 
 I love making beautiful user interfaces
